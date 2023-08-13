@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashaydharmik&label=Profile%20views&color=0e75b6&style=flat" alt="ashaydharmik" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashaydharmik" alt="ashaydharmik" /></a> </p>
+
 - 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashaydharmik](https://github.com/ashaydharmik)
